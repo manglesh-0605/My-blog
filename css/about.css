@@ -1,0 +1,22 @@
+.about {
+  margin: 100px auto;
+}
+
+.about h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  text-decoration: underline;
+  color: brown;
+}
+
+.about p {
+  text-indent: 100px;
+  font-size: 25px;
+  line-height: 40px;
+  font-style: italic;
+}
+
+footer {
+  border-top: 3px solid brown;
+}
+/*# sourceMappingURL=about.css.map */

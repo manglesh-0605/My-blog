@@ -1,0 +1,22 @@
+.max-width-1 {
+  max-width: 80vw;
+}
+
+.max-width-2 {
+  max-width: 60vw;
+}
+
+.m-auto {
+  margin: auto;
+}
+
+.btn {
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.form-input {
+  padding: 8px 10px;
+  font-weight: bold;
+}
+/*# sourceMappingURL=utils.css.map */
